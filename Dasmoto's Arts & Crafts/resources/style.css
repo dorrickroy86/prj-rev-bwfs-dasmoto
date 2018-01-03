@@ -1,0 +1,56 @@
+h1.first {
+  front-family: Helvetica;
+  font-size: 75px;
+  font-weight: bold;
+  color: khaki;
+  text-align: centered;
+}
+
+h1.second {
+  front-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+h1.third {
+  front-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+h1.forth {
+  front-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+
+b {
+font-family: Helvetica;
+font
+font-family: bold;
+color: blue;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+</style>
+</head>
